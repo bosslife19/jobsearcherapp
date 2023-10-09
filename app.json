@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "jobsearcher_react-native",
+    "slug": "jobsearcher_react-native",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "43e1d579-dd49-4bb3-9248-f7ca95cdcf0a"
+      }
+    },
+    "android": {
+      "package": "com.davidwoks.jobsearcher_reactnative"
+    }
+  }
+}
